@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.count {
+  border: 1px solid white;
+  padding: 10px;
+  box-shadow: 2px 2px 8px rgba(22, 1, 1, 0.5);
+}
